@@ -106,20 +106,4 @@ require("odin").setup({
 })
 ```
 
-You can also use the odin color palette for other plugins using `local colors = require("odin.colors")`!
-
-## Extras
-
-Extra color configs for Kitty, Alacritty, and iTerm can be found in [extras](https://github.com/rmehri01/odin.nvim/blob/main/extras). To use them, refer to their respective documentation.
-
-![An example of the Kitty odin theme](https://user-images.githubusercontent.com/52933714/139562438-d05ceebe-cf01-4948-bdab-6d0969f22087.png)
-
-## Credits
-
-I was highly inspired by these other awesome themes, check them out!
-
-- [tokyonight.nvim](https://github.com/folke/tokyonight.nvim)
-- [onedark.nvim](https://github.com/navarasu/onedark.nvim)
-- [NvChad's Nord Theme](https://github.com/NvChad/NvChad#theme-showcase)
-- [material.nvim](https://github.com/marko-cerovac/material.nvim)
-- [nord.nvim](https://github.com/shaunsingh/nord.nvim)
+Basically it's a rewrite from onedark.nvim
